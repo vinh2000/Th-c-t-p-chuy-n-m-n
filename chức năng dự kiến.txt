@@ -1,0 +1,19 @@
+#THỰC TẬP CHUYÊN MÔN
+GVHD: NGUYỄN LÊ MINH
+sv: Đoàn Bùi Quang Vĩnh
+msv:5951071122
+*****Đề tài***
+PHẦN MỀM QUẢN LÍ MUA BÁN SÁCH
+1. Ngôn Ngữ
+C#
+GonaUI2
+Bunifu
+2. Chức năng dự kiến
+*Khách hàng--Nhân viên--sách--
+thêm, sửa, xóa, tìm kiếm, cập nhật
+*Login phân quyền cấp quyền
+*Xuất hóa đơn
+*Thống kê doanh thu
+
+
+
